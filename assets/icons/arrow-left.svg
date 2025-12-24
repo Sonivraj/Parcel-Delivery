@@ -1,0 +1,6 @@
+<svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0"><defs><clipPath id="clip1_65_235">
+<rect width="16" height="16" fill="white" transform="translate(0, 0)"/>
+</clipPath></defs><g id="arrow-left 1" clip-path="url(#clip1_65_235)">
+<path id="Vector" d="M15,8h-14" stroke="#EEEEEE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M8,15l-7,-7l7,-7" stroke="#EEEEEE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>
